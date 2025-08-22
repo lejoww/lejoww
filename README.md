@@ -8,10 +8,10 @@ Me gusta diseñar sistemas robustos, optimizar bases de datos y aplicar herramie
 🔹 Creo en la **colaboración y la mejora continua** como base de un buen equipo.  
 
 ### 🚀 Áreas que me definen
-[X] Desarrollo de APIs y microservicios
-[X] Bases de datos (SQL/NoSQL)
-[X] DevOps y observabilidad
-[X] Inteligencia Artificial
+- [x] Desarrollo de APIs y microservicios
+- [x] Bases de datos (SQL/NoSQL)
+- [x] DevOps y observabilidad
+- [x] Inteligencia Artificial
 
 ### 🌐 Encuéntrame en
 [LinkedIn](https://www.linkedin.com/in/lejoww/) · [Portfolio](https://lejoww.vercel.app/) · [GitHub](https://github.com/lejoww)
